@@ -1,6 +1,6 @@
 My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor
 ## Hi👋, I'm Frida~</h1>
-$\color{#4c71c6}A front-end programmer from Shanghai,China$
+A front-end programmer from Shanghai,China
 ## About My Github
 ![staredbyshark's GitHub stats](https://github-readme-stats.vercel.app/api?username=staredbyshark&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staredbyshark&layout=compact)](https://github.com/staredbyshark/github-readme-stats)
